@@ -1,2 +1,8 @@
+# my demo repo
 HI 
-My name is Ausaja
+
+# name 
+Ausaja
+
+# designation
+Student at FAST
